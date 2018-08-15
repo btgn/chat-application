@@ -15,7 +15,7 @@ The user interaction from one host to another host is based on the UNIX shell ki
 1.	help: Displays information about all the commands available for user interface options.
 2.	myip: Displays the IP address of this process i.e., the currently IP address of the computer.
 3.	myport: Displays the port number on which the process is listening for incoming connections.
-4.	connect <destination> <port no>: This command establishes a new TCP connection to the specified <destination> at the specified <port number>. 
+4.	connect <destination> <port no>: This command establishes a new TCP connection to the specified destination at the specified port_number. 
 5.	list: Displays the list of all the connections that the current host is connected to, by specifying with a unique ID to all the IP address as well as the Port Number.
 
         Ex:
